@@ -1,0 +1,710 @@
+[
+  {
+    "iteration": 1,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 1122,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 6.700000017881393
+      },
+      {
+        "name": "http://127.0.0.1:8080/favicon.ico",
+        "initiatorType": "other",
+        "transferSize": 300,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 5.399999976158142
+      }
+    ],
+    "loadTime": 1062
+  },
+  {
+    "iteration": 2,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 871
+  },
+  {
+    "iteration": 3,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 843
+  },
+  {
+    "iteration": 4,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 845
+  },
+  {
+    "iteration": 5,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 825
+  },
+  {
+    "iteration": 6,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 833
+  },
+  {
+    "iteration": 7,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 850
+  },
+  {
+    "iteration": 8,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 823
+  },
+  {
+    "iteration": 9,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 818
+  },
+  {
+    "iteration": 10,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 921
+  },
+  {
+    "iteration": 11,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 886
+  },
+  {
+    "iteration": 12,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 900
+  },
+  {
+    "iteration": 13,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 875
+  },
+  {
+    "iteration": 14,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 953
+  },
+  {
+    "iteration": 15,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 906
+  },
+  {
+    "iteration": 16,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 909
+  },
+  {
+    "iteration": 17,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 886
+  },
+  {
+    "iteration": 18,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 881
+  },
+  {
+    "iteration": 19,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 914
+  },
+  {
+    "iteration": 20,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 880
+  },
+  {
+    "iteration": 21,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 930
+  },
+  {
+    "iteration": 22,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 904
+  },
+  {
+    "iteration": 23,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 900
+  },
+  {
+    "iteration": 24,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 879
+  },
+  {
+    "iteration": 25,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 902
+  },
+  {
+    "iteration": 26,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 889
+  },
+  {
+    "iteration": 27,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 882
+  },
+  {
+    "iteration": 28,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 885
+  },
+  {
+    "iteration": 29,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 892
+  },
+  {
+    "iteration": 30,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 882
+  },
+  {
+    "iteration": 31,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 884
+  },
+  {
+    "iteration": 32,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 877
+  },
+  {
+    "iteration": 33,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 885
+  },
+  {
+    "iteration": 34,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 889
+  },
+  {
+    "iteration": 35,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 893
+  },
+  {
+    "iteration": 36,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 882
+  },
+  {
+    "iteration": 37,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 905
+  },
+  {
+    "iteration": 38,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 873
+  },
+  {
+    "iteration": 39,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 920
+  },
+  {
+    "iteration": 40,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 885
+  },
+  {
+    "iteration": 41,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 908
+  },
+  {
+    "iteration": 42,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 886
+  },
+  {
+    "iteration": 43,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 894
+  },
+  {
+    "iteration": 44,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 874
+  },
+  {
+    "iteration": 45,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 886
+  },
+  {
+    "iteration": 46,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 881
+  },
+  {
+    "iteration": 47,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 911
+  },
+  {
+    "iteration": 48,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 880
+  },
+  {
+    "iteration": 49,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 888
+  },
+  {
+    "iteration": 50,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:8080/bundle.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 822,
+        "decodedBodySize": 822,
+        "duration": 0
+      }
+    ],
+    "loadTime": 886
+  }
+]
