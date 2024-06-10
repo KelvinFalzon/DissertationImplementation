@@ -1,7 +1,8 @@
 Important: this implementation does not include the node-modules folder since it is being pushed on a GitHub Repo.
 First install Node-Modules in all 3 folders: Results, typescript-analysis, typescript-analysis2
 
-Command: npm install or npm ci
+Command: npm install 
+Alternative command: npm ci
 
 //implementation
 
